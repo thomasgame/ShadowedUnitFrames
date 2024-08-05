@@ -1,0 +1,7 @@
+suf.tmproj
+.DS_Store
+libs/
+luacheck.exe
+
+.idea
+.vscode
